@@ -1,0 +1,13 @@
+.container {
+    max-width: 8000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.coffee-image {
+    float:right;
+    width: 50px;
+    margin-left: 20px;
+}
+.text-info {
+    font-style: italic;
+}    
